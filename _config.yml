@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:jackfod/jackfod.github.io.git  # 替换为你的用户名
-  branch: master
+  branch: main
